@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AndroidStudioIonhaxProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Day1session" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Day3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../IONHAXPROJECT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MongoDB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NutritionApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PlacementApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../THIRU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WayVistaAnAndroidApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Whatsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../get-started-realm-sync-android-app" vcs="Git" />
+  </component>
+</project>
